@@ -1,0 +1,19 @@
+{
+  "name": "addon",
+  "version": "1.0.0",
+  "description": "Node add-on created in c++ , compiled using node-gyp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erlalitkumar/node-addon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erlalitkumar/node-addon/issues"
+  },
+  "homepage": "https://github.com/erlalitkumar/node-addon#readme"
+}
